@@ -1,6 +1,6 @@
 <h1 align="center" id="title">MetaSpy</h1>
 
-<p id="description">About A Python tool for detailed image metadata analysis and Open Source Intelligence unraveling the hidden insights behind visual data</p>
+<p id="description">A Python tool for detailed image metadata analysis and Open Source Intelligence unraveling the hidden insights behind visual data</p>
 
   
   
